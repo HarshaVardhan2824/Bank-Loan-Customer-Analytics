@@ -23,6 +23,8 @@ This project analyzes bank loan data to understand customer behavior, loan perfo
 
 ### Excel Dashboard
 ![Excel Dashboard](Images/excel_dashboard_1.png)
+![Excel Dashboard](Images/excel_dashboard_2.png)
+
 
 ### Tableau Dashboard
 ![Tableau Dashboard](Images/tableau_dashboard.png)
