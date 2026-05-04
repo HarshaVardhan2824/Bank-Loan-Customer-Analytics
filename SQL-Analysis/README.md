@@ -10,3 +10,5 @@ SQL queries used for data cleaning and analysis.
 ## Preview
 ![SQL Output 1](../Images/sql_1.png)
 ![SQL Output 2](../Images/sql_2.png)
+![SQL Output 1](../Images/sql_3.png)
+![SQL Output 2](../Images/sql_4.png)
